@@ -8,7 +8,7 @@ OneYear = 52.1786
 
 Calculate2 = Calculate * OneYear
 
-Result = Calculate
+Result = Calculate2
 
 print(f"\nYou have {round(Result ,2)} weeks left to {Years} years")
 
